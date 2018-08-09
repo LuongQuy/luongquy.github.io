@@ -19,7 +19,7 @@
 
         function captureUserMedia(callback) {
             var constraints = {
-                audio: true,
+                audio: false,
                 video: true
             };
 
