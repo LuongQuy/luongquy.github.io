@@ -1,7 +1,3 @@
-// 2013, @muazkh - https://github.com/muaz-khan
-// MIT License   - https://www.webrtc-experiment.com/licence/
-// Documentation - https://github.com/muaz-khan/WebRTC-Experiment/tree/master/broadcast
-
 (function() {
 
     // a middle-agent between public API and the Signaler object
